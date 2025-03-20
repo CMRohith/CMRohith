@@ -47,23 +47,16 @@ I am always eager to contribute to **cutting-edge AI/ML projects** that push tec
 
 ---
 
-## 🛠 Tech Stack  
-
-### **💻 Programming & Development:**  
-- **Python, C, C++**  
-- **Git, Cloud Computing (Basics), AutoCAD**  
-
-### **📊 Data Science & AI:**  
-- **TensorFlow, PyTorch, Scikit-learn**  
-- **Large Language Models, Multimodal Models**  
-- **OpenCV (Computer Vision), NLTK (NLP)**  
-
-### **📂 Databases & Visualization:**  
-- **MySQL, PostgreSQL**  
-- **Pandas, NumPy, Matplotlib, Power BI**  
-
-### **📈 Mathematical & Analytical Tools:**  
-- **Linear Algebra, MATLAB**  
+## 🛠 Tech Stack
+<div align="center">
+💻 Programming & Development
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/-Cloud%20Computing-808080?style=for-the-badge&logo=cloud&logoColor=white"> <img src="https://img.shields.io/badge/-AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white">
+📊 Data Science & AI
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/-LLMs%20&%20Multimodal%20Models-0096FF?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/-NLTK-32CD32?style=for-the-badge&logo=numpy&logoColor=white">
+📂 Databases & Visualization
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/-Matplotlib-8DD6F9?style=for-the-badge&logo=plotly&logoColor=white"> <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+📈 Mathematical & Analytical Tools
+<img src="https://img.shields.io/badge/-Linear%20Algebra-8A2BE2?style=for-the-badge&logo=matrix&logoColor=white"> <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"> </div>
 
 ---
 
