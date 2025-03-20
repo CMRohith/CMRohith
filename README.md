@@ -47,9 +47,13 @@ I am always eager to contribute to **cutting-edge AI/ML projects** that push tec
 ## 🛠 Tech Stack
 <div align="center">
 👨‍💻 Programming & Development
+
  
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/-Cloud%20Computing-808080?style=for-the-badge&logo=cloud&logoColor=white"> <img src="https://img.shields.io/badge/-AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white">
 
+🤖 Data Science & AI
+
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/-LLMs%20&%20Multimodal%20Models-0096FF?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/-NLTK-32CD32?style=for-the-badge&logo=numpy&logoColor=white">
 ---
 
 ## 📫 Get in Touch  
