@@ -14,9 +14,6 @@ Hi there! I'm **Rohith C M**, a passionate **Data Scientist and AI Researcher** 
 💡 **My areas of interest:**  
 ## 💡 My Areas of Interest  
 
-
-## 💡 My Areas of Interest  
-
 <div align="center"> <img src="https://img.shields.io/badge/-MACHINE%20LEARNING%20&%20DEEP%20LEARNING-6495ED?style=for-the-badge&logo=brain&logoColor=white"> <img src="https://img.shields.io/badge/-COMPUTER%20VISION%20&%20IMAGE%20PROCESSING-0078D7?style=for-the-badge&logo=opencv&logoColor=white"> <br> <img src="https://img.shields.io/badge/-NATURAL%20LANGUAGE%20PROCESSING%20(NLP)-D4AF37?style=for-the-badge&logo=readthedocs&logoColor=white"> <br> <img src="https://img.shields.io/badge/-CLOUD%20COMPUTING%20&%20SOFTWARE%20DEVELOPMENT-808080?style=for-the-badge&logo=cloud&logoColor=white"> <img src="https://img.shields.io/badge/-LINEAR%20ALGEBRA%20&%20MATHEMATICAL%20MODELING-5F9EA0?style=for-the-badge&logo=matrix&logoColor=white"> </div>
  
 
@@ -50,6 +47,7 @@ I am always eager to contribute to **cutting-edge AI/ML projects** that push tec
 ## 🛠 Tech Stack
 <div align="center">
 👨‍💻 Programming & Development
+ 
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/-Cloud%20Computing-808080?style=for-the-badge&logo=cloud&logoColor=white"> <img src="https://img.shields.io/badge/-AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white">
 
 ---
