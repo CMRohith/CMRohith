@@ -1,6 +1,6 @@
 # 🚀 Rohith C M
 
-**M.Tech Data Science | AI/ML Enthusiast | Software Developer**
+**M.Tech Data Science | AI/ML Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rohith-c-m-410889217)  
 📧 cmrohith2002@gmail.com | 📍 Coimbatore, India  
