@@ -14,20 +14,15 @@ Hi there! I'm **Rohith C M**, a passionate **Data Scientist and AI Researcher** 
 💡 **My areas of interest:**  
 ## 💡 My Areas of Interest  
 
-🚀 **Machine Learning & Deep Learning**  
-&nbsp;&nbsp;&nbsp;&nbsp;🧠 TensorFlow, PyTorch, Scikit-learn  
 
-📊 **Data Analytics & Visualization**  
-&nbsp;&nbsp;&nbsp;&nbsp;📈 Pandas, NumPy, Matplotlib, Power BI  
+## 💡 My Areas of Interest  
 
-🖼 **Computer Vision & NLP**  
-&nbsp;&nbsp;&nbsp;&nbsp;👀 OpenCV, NLTK  
-
-☁️ **Cloud Computing & Software Development**  
-&nbsp;&nbsp;&nbsp;&nbsp;💻 Cloud Technologies, Git, Software Engineering  
-
-📌 **Linear Algebra & Mathematical Modeling**  
-&nbsp;&nbsp;&nbsp;&nbsp;📐 Advanced Mathematical Techniques, MATLAB  
+> 🧠 **Machine Learning & Deep Learning**  
+> 📊 **Data Analytics & Visualization**  
+> 🖼 **Computer Vision & NLP**  
+> ☁️ **Cloud Computing & Software Development**  
+> 📌 **Linear Algebra & Mathematical Modeling**  
+ 
 
 
 I am always eager to contribute to **cutting-edge AI/ML projects** that push technological boundaries! 🚀  
