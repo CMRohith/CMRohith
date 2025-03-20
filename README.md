@@ -17,11 +17,12 @@ Hi there! I'm **Rohith C M**, a passionate **Data Scientist and AI Researcher** 
 
 ## 💡 My Areas of Interest  
 
-> 🧠 **Machine Learning & Deep Learning**  
-> 📊 **Data Analytics & Visualization**  
-> 🖼 **Computer Vision & NLP**  
-> ☁️ **Cloud Computing & Software Development**  
-> 📌 **Linear Algebra & Mathematical Modeling**  
+![🧠 Machine Learning & Deep Learning](https://img.shields.io/badge/-MACHINE%20LEARNING%20&%20DEEP%20LEARNING-6495ED?style=for-the-badge&logo=brain&logoColor=white)  
+![🖼 Computer Vision & Image Processing](https://img.shields.io/badge/-COMPUTER%20VISION%20&%20IMAGE%20PROCESSING-0078D7?style=for-the-badge&logo=opencv&logoColor=white)  
+![📜 Natural Language Processing (NLP)](https://img.shields.io/badge/-NATURAL%20LANGUAGE%20PROCESSING%20(NLP)-D4AF37?style=for-the-badge&logo=readthedocs&logoColor=white)  
+![☁️ Cloud Computing & Software Development](https://img.shields.io/badge/-CLOUD%20COMPUTING%20&%20SOFTWARE%20DEVELOPMENT-808080?style=for-the-badge&logo=cloud&logoColor=white)  
+![📌 Linear Algebra & Mathematical Modeling](https://img.shields.io/badge/-LINEAR%20ALGEBRA%20&%20MATHEMATICAL%20MODELING-5F9EA0?style=for-the-badge&logo=matrix&logoColor=white)  
+
  
 
 
