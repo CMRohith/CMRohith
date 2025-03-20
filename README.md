@@ -46,8 +46,8 @@ I am always eager to contribute to **cutting-edge AI/ML projects** that push tec
 
 ## 🛠 Tech Stack
 <div align="center">
+ 
 👨‍💻 Programming & Development
-
  
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/-Cloud%20Computing-808080?style=for-the-badge&logo=cloud&logoColor=white"> <img src="https://img.shields.io/badge/-AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white">
 
