@@ -1,22 +1,13 @@
 <div align="center">
   <img src="./header.png" width="100%" alt="Rohith C M - AI Researcher and PhD Scholar"/>
 
-
-<br/>
-
-### AI Researcher · PhD Scholar
-
-**Forecasting · Explainable AI · Uncertainty Quantification · Neural Operators**
-
 </div>
-
----
-
+<br/>
 ## About Me
 
 I am an AI researcher and PhD scholar interested in developing **intelligent, interpretable, and uncertainty-aware learning systems** for complex real-world problems.
 
-My research explores advanced machine learning frameworks, with a particular interest in moving **beyond conventional neural-network architectures toward Neural Operators and operator learning**.
+My research focuses on advanced machine learning frameworks for **forecasting, explainability, uncertainty quantification, and operator learning**.
 
 ---
 
@@ -28,14 +19,14 @@ My research explores advanced machine learning frameworks, with a particular int
 
 ### Forecasting & Time-Series Intelligence
 
-Advanced learning frameworks for complex temporal dynamics and predictive modeling.
+Developing learning frameworks for modeling complex temporal dynamics and forecasting.
 
 </td>
 <td width="50%" valign="top">
 
 ### Explainable AI (XAI)
 
-Developing interpretable models and understanding the factors behind AI predictions.
+Developing interpretable models that provide insight into the basis of their predictions.
 
 </td>
 </tr>
@@ -87,21 +78,10 @@ Combining data-driven learning with mathematical structure and dynamical systems
 
 <table>
 <tr>
-<td width="33%" valign="top">
 
-### 🔎 ScholarSar
+<td width="50%" valign="top">
 
-AI-powered literature discovery and screening platform.
-
-**Python · Streamlit · Research Tool**
-
-<a href="https://github.com/CMRohith/ScholarSar">View Repository →</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-### 📈 HODMD_STLF
+### HODMD_STLF
 
 Research framework for advanced time-series forecasting using HODMD and learning-based approaches.
 
@@ -111,17 +91,40 @@ Research framework for advanced time-series forecasting using HODMD and learning
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🧩 Causality
+### Causality
 
-Research implementations and experiments in causal machine learning.
+Collaborative research implementations and experiments exploring causal inference with machine learning, deep learning, and Transformer-based approaches.
 
-**Python · Causal AI · Machine Learning**
+**Python · Machine Learning · Deep Learning · Transformers · Causal AI**
 
-<a href="https://github.com/sivachandrakb/Causality">View Repository →</a>
+<a href="https://github.com/sivachandrakb/Causality">View Project →</a>
 
 </td>
+
+</tr>
+</table>
+
+---
+
+## Research Tools
+
+<table>
+<tr>
+
+<td width="100%" valign="top">
+
+### ScholarSar
+
+An AI-assisted literature discovery, screening, and research analysis platform developed collaboratively for systematic literature review workflows.
+
+**Python · Streamlit · Literature Mining · Research Analytics**
+
+<a href="https://github.com/CMRohith/ScholarSar">View Tool →</a>
+
+</td>
+
 </tr>
 </table>
 
@@ -131,64 +134,116 @@ Research implementations and experiments in causal machine learning.
 
 <table>
 <tr>
-<td valign="top" width="25%">
 
-**Languages**
+<td width="50%" valign="top">
 
-[![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB)](https://www.python.org/)
-[![MATLAB](https://img.shields.io/badge/MATLAB-111827?style=flat-square&logo=mathworks&logoColor=orange)](https://www.mathworks.com/)
+<h3>Programming</h3>
+<hr>
+
+<b>Python</b> · <b>C++</b> · <b>MATLAB</b>
+
+<br>
+
+<h3>Machine Learning & Deep Learning</h3>
+<hr>
+
+Supervised Learning · Unsupervised Learning ·
+Deep Learning · Transformer-based Models
+
+<br>
+
+<h3>Natural Language Processing</h3>
+<hr>
+
+Text Classification · Feature Extraction
+
+<br>
+
+<h3>Computer Vision</h3>
+<hr>
+
+Image Classification · Image Segmentation
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>Frameworks & Libraries</h3>
+<hr>
+
+TensorFlow · PyTorch · Keras · Scikit-learn ·
+NLTK · OpenCV · XGBoost
+
+<br>
+
+<h3>Data Analysis & Visualization</h3>
+<hr>
+
+Pandas · NumPy · SciPy · Matplotlib · Jupyter
+
+<br>
+
+<h3>Research & AI Methods</h3>
+<hr>
+
+<b>Neural Operators</b> · <b>Operator Learning</b>
+
+<br>
+
+<b>Explainable AI (XAI)</b> · <b>Uncertainty Quantification (UQ)</b>
+
+<br>
+
+<b>Uncertainty-Aware Learning</b> · Time-Series Forecasting
+
+<br>
+
+Transformers · Causal AI · Scientific Machine Learning
+
+<br>
+
+<h3>Development & Tools</h3>
+<hr>
+
+Git · GitHub · Streamlit · Unix
 
 </td>
 
-<td valign="top" width="30%">
-
-**Machine Learning**
-
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=flat-square&logo=tensorflow&logoColor=FF6F00)](https://www.tensorflow.org/)
-[![Keras](https://img.shields.io/badge/Keras-111827?style=flat-square&logo=keras&logoColor=D00000)](https://keras.io/)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-111827?style=flat-square&logo=scikit-learn&logoColor=F7931E)](https://scikit-learn.org/)
-[![XGBoost](https://img.shields.io/badge/XGBoost-111827?style=flat-square&logo=xgboost&logoColor=7AA116)](https://xgboost.readthedocs.io/)
-
-</td>
-
-<td valign="top" width="25%">
-
-**Tools**
-
-[![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-111827?style=flat-square&logo=streamlit&logoColor=FF4B4B)](https://streamlit.io/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-111827?style=flat-square&logo=jupyter&logoColor=F37626)](https://jupyter.org/)
-
-</td>
-
-<td valign="top" width="20%">
-
-**Research**
-
-`XAI` · `UQ` · `Neural Operators` · `Forecasting`
-
-</td>
 </tr>
 </table>
 
----
 
-## Connect With Me
+## Let's Connect
 
 <div align="center">
 
-**Research collaborations · technical discussions · academic opportunities**
+<p>
+Research collaborations · technical discussions · academic opportunities
+</p>
 
-<br/>
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-&nbsp;
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](YOUR_GOOGLE_SCHOLAR_URL)
-&nbsp;
-[![ORCID](https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](YOUR_ORCID_URL)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+<a href="https://www.linkedin.com/in/rohith-c-m-410889217">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://scholar.google.com/citations?user=UQ-twRgAAAAJ&hl=en&oi=ao">
+  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" height="40" alt="Google Scholar"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://orcid.org/0009-0008-3485-7957">
+  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" height="40" alt="ORCID"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="mailto:cmrohith2002@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email"/>
+</a>
+
+
 
 </div>
 
@@ -196,7 +251,7 @@ Research implementations and experiments in causal machine learning.
 
 <div align="center">
 
-### From data to meaningful insights.
+### From data to a brighter tomorrow.
 
 *Building intelligent, interpretable and uncertainty-aware learning systems.*
 
