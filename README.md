@@ -1,6 +1,6 @@
 <div align="center">
+  <img src="./header.png" width="100%" alt="Rohith C M - AI Researcher and PhD Scholar"/>
 
-<img src="./assets/header.png" width="100%" alt="Rohith C M - AI Researcher and PhD Scholar"/>
 
 <br/>
 
