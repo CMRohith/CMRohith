@@ -3,9 +3,9 @@
 
 </div>
 <br/>
-## About Me
+About Me
 
-I am an AI researcher and PhD scholar interested in developing **intelligent, interpretable, and uncertainty-aware learning systems** for complex real-world problems.
+I am an AI Research scholar interested in developing **intelligent, interpretable, and uncertainty-aware learning systems** for complex real-world problems.
 
 My research focuses on advanced machine learning frameworks for **forecasting, explainability, uncertainty quantification, and operator learning**.
 
