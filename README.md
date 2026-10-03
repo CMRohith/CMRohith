@@ -3,7 +3,9 @@
 
 </div>
 <br/>
-About Me
+
+---
+## About Me
 
 I am an AI Research scholar interested in developing **intelligent, interpretable, and uncertainty-aware learning systems** for complex real-world problems.
 
